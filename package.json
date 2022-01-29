@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-dcuevasr24",
+  "version": "1.0.1",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Daniel Cuevas <ivan-daniel24@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcuevas24/primer-paquete-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dcuevas24/primer-paquete-NPM/issues"
+  },
+  "homepage": "https://github.com/dcuevas24/primer-paquete-NPM#readme"
+}
